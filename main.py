@@ -51,8 +51,8 @@ def main():
                 "RRULE:FREQ=DAILY;COUNT=3"
             ],
             "attendees": [
-                {"email": "samihansari02@gmail.com"},
-                {"email": "samiha.ansari13@gmail.com"}
+                {"email": "samiha@gmail.com"},
+                {"email": "samiha01@gmail.com"}
             ],
             "conferenceData": {
                 "createRequest": {
